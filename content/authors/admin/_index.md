@@ -17,19 +17,6 @@ organizations:
 - name: City University of Hong Kong
   url: ""
 
-
-education:
-  courses:
-  - course: MSc in Business Information Systems
-    institution: City University of Hong Kong
-    year: 2018.09 - 2019.06
-  - course: Exchange Student of Economics and Management
-    institution: University of Trento
-    year: 2017.09 - 2018.02
-  - course: BSc in Electronic Commerce
-    institution: SouthWestern University of Finance and Economics (SWUFE)
-    year: 2014.09 - 2018.06
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -54,14 +41,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-City University of Hong Kong     Hong Kong SAR     2018.09 - 2019.06
-MSc in Business Information Systems                   GPA : 3.4 / 4.0
-Major Courses: Management Support and Business Intelligence Systems, Human-Computer Interaction and Multimedia, Blockchain Technology and Business Applications, Investments, etc.
-
-University of Trento        Trento, Italy         2017.09 - 2018.02
-Exchange Student of Economics and Management
-
-SouthWestern University of Finance and Economics (SWUFE)    Chengdu, China      2014.09 - 2018.06
-BSc in Electronic Commerce            GPA : 3.5 / 5.0
-Major Courses: Object-oriented Programming (JAVA EE), Database Theories and Application, Data Mining,
-Finance Intelligence, Business Research Methods, Econometrics, Corporate Finance, etc.
