@@ -23,7 +23,6 @@ education:
   - course: MSc in Business Information Systems
     institution: City University of Hong Kong
     year: 2018.09 - 2019.06
-    location: Hong Kong SAR
   - course: Exchange Student of Economics and Management
     institution: University of Trento
     year: 2017.09 - 2018.02
@@ -38,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'erikayuwang.career@outlook.com
+  link: erikayuwang.career@outlook.com
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
